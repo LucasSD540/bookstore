@@ -8,7 +8,7 @@ from product.factories import CategoryFactory
 from product.models import Category
 
 
-class CategoryViewSet(APITestCase):
+class TestCategoryViewSet(APITestCase):
     client = APIClient()
 
     def setUp(self):
