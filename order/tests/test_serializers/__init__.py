@@ -1,1 +1,1 @@
-from test_order_serializer import TestOrderSerializer
+from .test_order_serializer import TestOrderSerializer

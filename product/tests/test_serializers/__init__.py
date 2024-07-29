@@ -1,2 +1,2 @@
-from test_category_serializer import TestCategorySerializer
-from test_product_serializer import TestProductSerializer
+from .test_category_serializer import TestCategorySerializer
+from .test_product_serializer import TestProductSerializer

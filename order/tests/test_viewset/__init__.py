@@ -1,1 +1,1 @@
-from test_order_viewset import TestOrderViewSet
+from .test_order_viewset import TestOrderViewSet
